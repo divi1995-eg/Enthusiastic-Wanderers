@@ -1,0 +1,22 @@
+{
+	"name": "Enthusiastic Wanderers",
+	"enabled": true,
+	"icon": 308,
+	"team": "Enthusiastic Wanderers",
+	"team-email": "divysharma@expediagroup.com",
+	"slack-channel": "#<team-slack-channel>",
+	"tag-line": "Idea is to present user key information related to his travel when user shows interest for location then based on some general input's <br>We will be showing user below things:<br>- Best things to do during that time of year in a location<br>- Best places to eat based aggregating data from various sources<br>- Some offbeat places to explore other than main one's<br>- Real life experiences of other people in same time span at that location",
+	"links": [
+		{
+			"name": "Example Link",
+			"url": "http://<link_url>"
+		}
+	],
+	"tags": [
+		"Reconnecting With Travel Hackathon 2022"
+	],
+	"contributors": [
+		"divysharma",
+		"tanvsingh"
+	]
+}
